@@ -1,0 +1,54 @@
+#twitterIcon{
+  color: rgb(0, 172, 237);
+}
+
+body {
+  background: url("http://unsplash.com/photos/CuFYW1c97w8/download?force=true");
+  background-size: cover;
+  height: auto;
+}
+
+h1 {
+  padding: 0;
+  margin-top: 40px;
+  font-size: 3.0em;
+  font-size: 50px;
+  font-family: 'Bungee Shade', cursive;
+  color: white;
+}
+
+p {
+  font-size: 1.0em;
+  font-size: 25px;
+  font-family: 'Bungee Shade', cursive;
+  color: red;
+}
+
+.block {
+  opacity: 0.6;
+  background-color: white;
+  padding: 30px;
+  height: auto;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+
+.quote {
+  font-family: 'BioRhyme', serif;
+  font-size: 30px;
+  color: black;
+}
+
+.btn-default {
+  border-color: black;
+  font-size: 1.0em;
+  margin-top: 10px;
+  height: auto;
+}
+
+#footer {
+  padding-top: 200px;
+  font-size:15px;
+}
